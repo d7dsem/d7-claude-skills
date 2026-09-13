@@ -6,6 +6,7 @@ Skills used alongside this collection, NOT vendored here.
 |-------|--------|---------|---------|-------|
 | `codebase-onboarding` | https://github.com/affaan-m/everything-claude-code/blob/main/skills/codebase-onboarding/SKILL.md | MIT | Onboarding guide + starter CLAUDE.md (architecture, entry points, conventions) | Instructions only, no scripts or network calls |
 | `session-handoff` | https://github.com/NotThatRob/Claude-Skill-Session-Handoff | MIT | Writes HANDOFF.md (done / current state / next steps) for session continuity | Instructions only, uses local git commands |
+| `logika` | https://github.com/EvilFreelancer/logika/blob/main/SKILL.md | MIT | Classical formal logic: review & fix argumentation, detect fallacies, solve logic problems | Instructions only, Russian references included |
 
 ## Installing Third-Party Skills
 
